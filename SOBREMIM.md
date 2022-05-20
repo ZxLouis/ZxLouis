@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou o Luís.
+- 👀 Estou interessado em aprender a programar.
+- 🌱 Estou aprendendo atualmente sobre javascript.
